@@ -26,7 +26,7 @@ namespace LiveState
 
 
         /// <summary>
-        /// 创建配置文件
+        /// 创建配置文件11
         /// </summary>
         public static void CreateConfigFile()
         {
